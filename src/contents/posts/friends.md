@@ -44,7 +44,7 @@ tags: ["Friends"]
 - [晚星](https://steamcommunity.com/profiles/76561199072015238)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094)
 - [Tak1na](https://steamcommunity.com/profiles/76561199364880383)
-- ~~七海Nanami~~
+- [七海Nanami](https://steamcommunity.com/profiles/76561199212014567)
 
 # 2025
 - [小K](https://steamcommunity.com/profiles/76561198931014672)
