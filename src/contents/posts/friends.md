@@ -16,7 +16,7 @@ tags: ["Friends"]
 # 2022
 - 剑心弥玖
 - 风
-- LHEZE
+- 光辉
 - [明朝老兵](https://steamcommunity.com/profiles/76561198994991313)
 - [吒某位](https://steamcommunity.com/profiles/76561199143637350)
 
