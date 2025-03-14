@@ -50,6 +50,9 @@ const YukinaConfig: Configuration = {
 
   banners: [
     "https://www.dmoe.cc/random.php",
+    "https://www.loliapi.com/acg/",
+    "https://www.loliapi.com/bg/",
+    "https://api.miaomc.cn/image/get",
   ],
 
   slugMode: "HASH",
