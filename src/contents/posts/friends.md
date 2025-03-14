@@ -1,5 +1,5 @@
 ---
-title: "我的好朋友们"
+title: "Friends"
 published: 2024-03-15
 author: "颜"
 tags: ["Friends"]
