@@ -1,5 +1,8 @@
-# Special thanks to:
+---
+title: 关于
+description: 这是我的个人信息。
+---
 
-- [Hexo Shoka theme](https://github.com/amehime/hexo-theme-shoka) for providing design inspiration
+# 介绍
 
-- [Astro Fuwari template](https://github.com/saicaca/fuwari) for providing the main design concept and part of the implementation
+这是我的个人信息。
