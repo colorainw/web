@@ -1,6 +1,6 @@
 ---
 title: "Friends"
-published: 2024-03-15
+published: 2025-03-15
 author: "颜"
 tags: ["Friends"]
 ---
