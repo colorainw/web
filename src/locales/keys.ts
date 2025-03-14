@@ -6,7 +6,6 @@ enum I18nKeys {
   nav_bar_home = "nav_bar_home",
   nav_bar_archive = "nav_bar_archive",
   nav_bar_about = "nav_bar_about",
-  nav_bar_github = "nav_bar_steam",
   nav_bar_search_placeholder = "nav_bar_search_placeholder",
 
   post_card_words = "post_card_words",
@@ -24,6 +23,8 @@ enum I18nKeys {
 
   pages_tags_title = "pages_tags_title",
   pages_categories_title = "pages_categories_title",
+  nav_bar_steam = "nav_bar_steam",
+  nav_bar_stea = "nav_bar_stea",
 }
 
 export default I18nKeys;
