@@ -5,7 +5,7 @@ author: "颜"
 tags: ["Friends"]
 ---
 
-往日已不在。
+**往日已不在。**
 
 # 2016
 - [呆](https://steamcommunity.com/profiles/76561199172556849/)
