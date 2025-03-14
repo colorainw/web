@@ -48,4 +48,4 @@ tags: ["Friends"]
 
 # 2025
 - [小K](https://steamcommunity.com/profiles/76561198931014672)
-- [Tsubaki](https://steamcommunity.com/profiles/76561198997624879/)
+- [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
