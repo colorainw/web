@@ -6,9 +6,9 @@ const YukinaConfig: Configuration = {
   subTitle: "随便写写..",
   brandTitle: "Shinyan",
 
-  description: "Demo Site",
+  description: "Test",
 
-  site: "https://localhost",
+  site: "https://shinyan.top",
 
   locale: "zh-CN",
   navigators: [
