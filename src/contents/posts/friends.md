@@ -18,6 +18,7 @@ tags: ["Friends"]
 - 风
 - 光辉
 - [明朝老兵](https://steamcommunity.com/profiles/76561198994991313)
+- [离合](https://steamcommunity.com/profiles/76561199243850182)
 - [吒某位](https://steamcommunity.com/profiles/76561199143637350)
 - [自由人](https://steamcommunity.com/profiles/76561198837752807)
 
