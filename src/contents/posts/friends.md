@@ -24,12 +24,12 @@ tags: ["Friends"]
 # 2023
 - [自由人](https://steamcommunity.com/profiles/76561198837752807)
 - [馒头](https://steamcommunity.com/profiles/76561198443411885)
+- [Yukari](https://steamcommunity.com/profiles/76561199192625212)
+- [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655)
 - [幼儿园萌匪](https://steamcommunity.com/profiles/76561198918160075)
 - [碧落星辰](https://steamcommunity.com/profiles/76561199206975005)
 - [呵呵林呵呵](https://steamcommunity.com/profiles/76561199109872048)
-- ~~梦未央~~
-- [Yukari](https://steamcommunity.com/profiles/76561199192625212)
-- [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655)
+- [Tak1na](https://steamcommunity.com/profiles/76561199364880383)
 - Fish
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548)
 - [SobumusuA](https://steamcommunity.com/profiles/76561198985523543)
@@ -43,7 +43,6 @@ tags: ["Friends"]
 - [晚星](https://steamcommunity.com/profiles/76561199072015238)
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094)
-- [Tak1na](https://steamcommunity.com/profiles/76561199364880383)
 - [七海Nanami](https://steamcommunity.com/profiles/76561199212014567)
 
 # 2025
