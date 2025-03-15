@@ -39,13 +39,14 @@ tags: ["Friends"]
 
 # 2024
 - [TeaOvO](https://steamcommunity.com/profiles/76561199231335817) 
-- [Mutek1星空](https://steamcommunity.com/profiles/76561199015172939)  	
+- [Mutek1星空](https://steamcommunity.com/profiles/76561199015172939)      
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) 
-- [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094)	
+- [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094)    
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) 
-- [七海Nanami](https://steamcommunity.com/profiles/76561199212014567)
+- [<span style="color: #ff4444">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567)
 
 # 2025
 - [小K](https://steamcommunity.com/profiles/76561198931014672)
+- [<span style="color: #ff4444">𝐅𝐞𝐈𝐯𝐲𝟏</span>](https://steamcommunity.com/profiles/76561198274184226)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
