@@ -5,7 +5,7 @@ author: "颜"
 tags: ["Friends"]
 ---
 
-**往日已不在。**
+**往日不在。**
 
 # 2016
 - [呆](https://steamcommunity.com/profiles/76561199172556849/)
@@ -50,3 +50,5 @@ tags: ["Friends"]
 - [<span style="color: #ff4444">𝐅𝐞𝐈𝐯𝐲𝟏</span>](https://steamcommunity.com/profiles/76561198274184226)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
+
+<span style="color: #A9A9A9">最后更新于 2025年3月15日18:26:05</span>
