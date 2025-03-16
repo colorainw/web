@@ -33,6 +33,7 @@ tags: ["Friends"]
 - [Tak1na](https://steamcommunity.com/profiles/76561199364880383)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) 
 - [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655)
+- [<span style="color: #ff4444">生可乐</span>](https://steamcommunity.com/profiles/76561199401070006)
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) 
 - [Fish](https://steamcommunity.com/profiles/76561199426944104)
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548)
