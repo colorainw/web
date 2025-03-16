@@ -45,6 +45,7 @@ tags: ["Friends"]
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094)    
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) 
 - [<span style="color: #ff4444">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567)
+- [<span style="color: #ff4444">霜降Yuki/span>](https://steamcommunity.com/profiles/76561199372271978)
 
 # 2025
 - [小K](https://steamcommunity.com/profiles/76561198931014672)
