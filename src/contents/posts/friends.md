@@ -45,7 +45,7 @@ tags: ["Friends"]
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094)    
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) 
 - [<span style="color: #ff4444">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567)
-- [<span style="color: #ff4444">霜降Yuki/span>](https://steamcommunity.com/profiles/76561199372271978)
+- [<span style="color: #ff4444">霜降Yuki</span>](https://steamcommunity.com/profiles/76561199372271978)
 
 # 2025
 - [小K](https://steamcommunity.com/profiles/76561198931014672)
@@ -53,4 +53,4 @@ tags: ["Friends"]
 - [幻想](https://steamcommunity.com/profiles/76561199005295774)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
 
-<span style="color: #A9A9A9">最后更新于 2025年3月16日18:22:14</span>
+<span style="color: #A9A9A9">最后更新于 2025年3月16日18:23:30</span>
