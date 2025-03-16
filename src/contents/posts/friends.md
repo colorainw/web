@@ -56,7 +56,7 @@ draft: false
 - [<span style="color: #ff4444">霜降Yuki</span>](https://steamcommunity.com/profiles/76561199372271978)
 
 # 2025
-- [小K](https://steamcommunity.com/profiles/76561198931014672)
+- [<span style="color:rgb(133, 62, 62)">小K</span>](https://steamcommunity.com/profiles/76561198931014672)
 - [<span style="color: #ff4444">𝐅𝐞𝐈𝐯𝐲𝟏</span>](https://steamcommunity.com/profiles/76561198274184226)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
