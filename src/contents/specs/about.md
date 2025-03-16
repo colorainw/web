@@ -32,5 +32,7 @@ description: 这是我的个人信息。
 
 需要聊天的话，欢迎在我活跃时间段来交流~
 
+---
+
 # [**我的笨蛋朋友们**](http://shinyan.top/posts/2e4b9cc2)
 <span style="color: #808080">(包括已<span style="color: #ff4444">绝交</span>的/已<span style="color: #ff4444">失联</span>的旧友，每段相遇都值得被记录)</span>

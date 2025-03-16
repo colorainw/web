@@ -1,10 +1,15 @@
 ---
-title: "云端相遇录：未完成的数字叙事"
-published: 2025-03-16
-author: "颜"
-tags: ["Friends"]
+title: "甜蜜、谎言、破碎"
+published: 2025-12-31
+description: 四次恋爱
+author: "柳颜"
+tags: [Friend, love]
+category: 朋友
+draft: false
 ---
 
-之后，我不会再网恋了
+四次网恋，四段没说完的故事。
 
-这篇文章之后在写
+之后，我不会再网恋了。
+
+我需要一段时间，来整理这个故事。

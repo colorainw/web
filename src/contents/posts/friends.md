@@ -1,8 +1,13 @@
 ---
 title: "Friends"
 published: 2025-03-15
-author: "颜"
+description: 过去、现在、未来
+licenseName: 自定义
+author: 江南岸柳颜
+sourceLink: "rainw.top"
 tags: ["Friends"]
+category: 朋友
+draft: false
 ---
 
 **往日不在。**
@@ -56,4 +61,4 @@ tags: ["Friends"]
 - [幻想](https://steamcommunity.com/profiles/76561199005295774)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
 
-<span style="color: #A9A9A9">最后更新于 2025年3月16日18:49:15</span>
+<span style="color: #A9A9A9">最后更新于 2025年3月16日22:10:13</span>
