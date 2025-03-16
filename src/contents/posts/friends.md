@@ -33,7 +33,7 @@ tags: ["Friends"]
 - [CC](https://steamcommunity.com/profiles/76561199157869062) 
 - [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655)
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) 
-- Fish
+- [Fish](https://steamcommunity.com/profiles/76561199426944104)
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548)
 - [SobumusuA](https://steamcommunity.com/profiles/76561198985523543)
 - [Terminalis](https://steamcommunity.com/profiles/76561199140321763)
