@@ -29,6 +29,7 @@ tags: ["Friends"]
 - [幼儿园萌匪](https://steamcommunity.com/profiles/76561198918160075)
 - [碧落星辰](https://steamcommunity.com/profiles/76561199206975005)
 - [呵呵林呵呵](https://steamcommunity.com/profiles/76561199109872048)
+- [浪浪山](https://steamcommunity.com/profiles/76561199045732573)
 - [<span style="color: #ff4444">梦未央</span>](https://steamcommunity.com/profiles/76561198967455479)
 - [Tak1na](https://steamcommunity.com/profiles/76561199364880383)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) 
