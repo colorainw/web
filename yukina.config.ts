@@ -32,7 +32,7 @@ const YukinaConfig: Configuration = {
 
   username: "颜",
   sign: "个人简介",
-  avatarUrl: "https://avatars.cloudflare.steamstatic.com/1af8efce80d90b32d47e4856ae02bdbae9fb73c6_full.jpg",
+  avatarUrl: "https://avatars.st.dl.eccdnx.com/ce9cca9dcfd112e0c652174e2e6df8ccd11b8b6b_full.jpg",
   socialLinks: [
     {
       icon: "mingcute:bilibili-line",
