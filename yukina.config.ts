@@ -2,9 +2,9 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Shinyan",
-  subTitle: "随便写写..",
-  brandTitle: "Shinyan",
+  title: "shinyan",
+  subTitle: "",
+  brandTitle: "shinyan",
 
   description: "Test",
 
@@ -31,7 +31,7 @@ const YukinaConfig: Configuration = {
   ],
 
   username: "颜",
-  sign: "个人简介",
+  sign: "要好好愛自己",
   avatarUrl: "https://avatars.st.dl.eccdnx.com/ce9cca9dcfd112e0c652174e2e6df8ccd11b8b6b_full.jpg",
   socialLinks: [
     {
