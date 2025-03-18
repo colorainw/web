@@ -10,7 +10,7 @@ category: 朋友
 draft: false
 ---
 
-**往日不在。**
+**谢谢你，我那个回不去的时光。要向前看。**
 
 # 2016
 - [呆](https://steamcommunity.com/profiles/76561199172556849/)
@@ -56,7 +56,7 @@ draft: false
 - [<span style="color:rgb(255, 0, 0)">霜降Yuki</span>](https://steamcommunity.com/profiles/76561199372271978)
 
 # 2025
-- [<span style="color:rgb(255, 120, 120)">小K</span>](https://steamcommunity.com/profiles/76561198931014672)     (是该在风起时松开交握的手，还是握紧最后一丝温度继续同行？)
+- [<span style="color:rgb(255, 120, 120)">小K</span>](https://steamcommunity.com/profiles/76561198931014672)
 - [<span style="color:rgb(255, 0, 0)">𝐅𝐞𝐈𝐯𝐲𝟏</span>](https://steamcommunity.com/profiles/76561198274184226)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
