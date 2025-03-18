@@ -29,6 +29,7 @@ draft: false
 
 
 # 2023
+- [熊熊](https://steamcommunity.com/profiles/76561198849046684)
 - [馒头](https://steamcommunity.com/profiles/76561198443411885)
 - [Yukari](https://steamcommunity.com/profiles/76561199192625212)
 - [幼儿园萌匪](https://steamcommunity.com/profiles/76561198918160075)
