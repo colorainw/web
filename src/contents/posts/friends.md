@@ -52,13 +52,13 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) 
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094)    
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) 
-- [<span style="color:rgb(255, 0, 0)">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567)
-- [<span style="color:rgb(255, 0, 0)">霜降Yuki</span>](https://steamcommunity.com/profiles/76561199372271978)
+- [<span style="color:rgb(255, 0, 0)">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09
+- [<span style="color:rgb(255, 0, 0)">霜降Yuki</span>](https://steamcommunity.com/profiles/76561199372271978) 2024-12-29 至 2025-03-09
 
 # 2025
-- [<span style="color:rgb(255, 120, 120)">小K</span>](https://steamcommunity.com/profiles/76561198931014672)
-- [<span style="color:rgb(255, 0, 0)">𝐅𝐞𝐈𝐯𝐲𝟏</span>](https://steamcommunity.com/profiles/76561198274184226)
+- [<span style="color:rgb(255, 120, 120)">小K</span>](https://steamcommunity.com/profiles/76561198931014672) 
+- [<span style="color:rgb(255, 0, 0)">𝐅𝐞𝐈𝐯𝐲𝟏</span>](https://steamcommunity.com/profiles/76561198274184226) 2025-01-18 至 2025-03-09
 - [幻想](https://steamcommunity.com/profiles/76561199005295774)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879)
 
-<span style="color: #A9A9A9">最后更新于 2025年3月16日23:12:54</span>
+<span style="color: #A9A9A9">最后更新于 2025年3月18日23:34:43</span>
