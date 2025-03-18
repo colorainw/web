@@ -34,4 +34,4 @@ description: 这是我的个人信息。
 # [**朋友们**](http://shinyan.top/posts/2e4b9cc2)
 <span style="color: #808080">(包括已<span style="color: #ff4444">绝交</span>的/已<span style="color: #ff4444">失联</span>的旧友，每段相遇都值得被记录)</span>
 
-<span style="color:rgb(255, 246, 121)">谢谢你们。</span>
+<span style="color: #808080">谢谢你们。</span>
