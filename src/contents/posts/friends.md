@@ -18,6 +18,10 @@ draft: false
 # 2016
 - [呆](https://steamcommunity.com/profiles/76561199172556849/)
 
+# 2018
+- 徐
+- 常
+
 # 2020
 - 七街长巷
 - [离合](https://steamcommunity.com/profiles/76561199243850182)
