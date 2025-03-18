@@ -40,7 +40,7 @@ draft: false
 - [Tak1na](https://steamcommunity.com/profiles/76561199364880383)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) 
 - [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655)
-- [<span style="color:rgb(255, 0, 0)">生可乐</span>](https://steamcommunity.com/profiles/76561199401070006)
+- [<span style="color:rgb(255, 0, 0)">生可乐</span>](https://steamcommunity.com/profiles/76561199401070006) 2023 至 2024
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) 
 - [Fish](https://steamcommunity.com/profiles/76561199426944104)
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548)
