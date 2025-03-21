@@ -60,7 +60,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- [<span style="color:rgb(255, 0, 0)">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09
+- [<span style="color:rgb(255, 0, 0)">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09 如果命运或缘分允许，我们未来可能会再次相遇。
 
 # 2025
 - [小K](https://steamcommunity.com/profiles/76561198931014672) (1月)
