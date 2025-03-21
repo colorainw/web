@@ -60,7 +60,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- [<span style="color:rgb(255, 0, 0)">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09 如果命运或缘分允许，我们未来可能会再次相遇。
+- <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561199212014567" target="_blank"><span style="color:rgb(255, 0, 0)">七海Nanami</span></a><span class="tooltiptext">如果命运或缘分允许，我们未来可能会再次相遇。</span></div> 2024-09-30 至 2025-03-09
 
 # 2025
 - [小K](https://steamcommunity.com/profiles/76561198931014672) (1月)
@@ -68,4 +68,6 @@ draft: false
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 
-<span style="color: #A9A9A9">最后更新于 2025年3月20日22:17:12</span>
+<span style="color: #A9A9A9">最后更新于 2025年3月21日18:27:10</span>
+
+<style>.tooltip{position:relative;display:inline-block;border-bottom:1px dotted black}.tooltip .tooltiptext{visibility:hidden;width:120px;background-color:black;color:#fff;text-align:center;border-radius:5px;padding:5px 0;position:absolute;z-index:1;bottom:125%;left:50%;margin-left:-60px;opacity:0;transition:opacity .3s}.tooltip:hover .tooltiptext{visibility:visible;opacity:1}.tooltip a{color:inherit;text-decoration:none}.tooltip a:hover{text-decoration:underline}</style>
