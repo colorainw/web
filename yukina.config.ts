@@ -32,7 +32,7 @@ const YukinaConfig: Configuration = {
 
   username: "颜",
   sign: "要好好愛自己",
-  avatarUrl: "https://avatars.st.dl.eccdnx.com/ce9cca9dcfd112e0c652174e2e6df8ccd11b8b6b_full.jpg",
+  avatarUrl: "https://img.fastmirror.net/s/2025/03/23/67dee278e4e89.jpg",
   socialLinks: [
     {
       icon: "mingcute:bilibili-line",
