@@ -45,6 +45,7 @@ draft: false
 - [浪浪山](https://steamcommunity.com/profiles/76561199045732573) (8月)
 - [<span style="color:rgb(255, 0, 0)">梦未央</span>](https://steamcommunity.com/profiles/76561198967455479)
 - [Tak1na](https://steamcommunity.com/profiles/76561199364880383) (8月)
+- [面包](https://steamcommunity.com/profiles/76561199075131465) (8月)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) (8月)
 - [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655) (9月)
 - [<span style="color:rgb(255, 0, 0)">生可乐</span>](https://steamcommunity.com/profiles/76561199401070006) 2023 至 2024
@@ -67,6 +68,6 @@ draft: false
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 
-<span style="color: #A9A9A9">最后更新于 2025年3月21日18:27:10</span>
+<span style="color: #A9A9A9">最后更新于 2025年3月22日20:06:03</span>
 
 <style>.tooltip{position:relative;display:inline-block;border-bottom:1px dotted black}.tooltip .tooltiptext{visibility:hidden;width:120px;background-color:black;color:#fff;text-align:center;border-radius:5px;padding:5px 0;position:absolute;z-index:1;bottom:125%;left:50%;margin-left:-60px;opacity:0;transition:opacity .3s}.tooltip:hover .tooltiptext{visibility:visible;opacity:1}.tooltip a{color:inherit;text-decoration:none}.tooltip a:hover{text-decoration:underline}</style>
