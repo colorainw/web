@@ -51,7 +51,7 @@ const YukinaConfig: Configuration = {
   banners: [
     "https://www.dmoe.cc/random.php",
     "https://www.loliapi.com/acg",
-    "https://moe.jitsu.top/api",
+    "https://moe.jitsu.top/api/",
     "https://api.miaomc.cn/image/get",
   ],
 
