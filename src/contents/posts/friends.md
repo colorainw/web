@@ -30,7 +30,7 @@ draft: false
 - 剑心弥玖
 - 风
 - 光辉
-- [明朝老兵](https://steamcommunity.com/profiles/76561198994991313)
+- [明朝老兵](https://steamcommunity.com/profiles/76561198994991313) (3月)
 - [吒某位](https://steamcommunity.com/profiles/76561199143637350) (8月)
 - [自由人](https://steamcommunity.com/profiles/76561198837752807) (8月)
 
