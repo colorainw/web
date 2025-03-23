@@ -17,7 +17,7 @@ description: 这是我的个人信息。
 
 **兴趣**  
 - 游戏（各类游戏都喜欢尝试，不太会魂类）
-- 电脑研究
+- 看视频
 
 **讨厌的**  
 - 过度较真（某些事情上）
@@ -28,6 +28,8 @@ description: 这是我的个人信息。
 - 不太会处理感情上的事情
 - 话很少
 - 我也会做错事情
+
+**<details><summary style="cursor: pointer;">我的联系方式</summary><p>Discord : rainyan_qwq</p><p>QQ : 这个要私聊问我哦</p></details>**
 
 ---
 
