@@ -29,7 +29,7 @@ description: 这是我的个人信息。
 - 话很少
 - 我也会做错事情
 
-**<details><summary style="cursor: pointer;">我的联系方式</summary><p>Discord : rainyan_qwq</p><p>QQ : 这个要私聊问我哦</p></details>**
+**<details><summary style="cursor: pointer;">我的联系方式</summary><p>Discord : rainyan_qwq</p><p>QQ : 这个要私聊问我哦</p><p>bilibili : <a href="https://space.bilibili.com/565790565">断流岁月</a></p></details>**
 
 ---
 

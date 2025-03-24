@@ -64,7 +64,7 @@ draft: false
 - <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561199212014567" target="_blank"><span style="color:rgb(255, 0, 0)">七海Nanami</span></a><span class="tooltiptext">如果命运或缘分允许，我们未来可能会再次相遇。</span></div> 2024-09-30 至 2025-03-09
 
 # 2025
-- 小k
+- 小k (1月)
 - [梦](https://steamcommunity.com/profiles/76561198274184226) (1月)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
