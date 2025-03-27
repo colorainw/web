@@ -68,7 +68,7 @@ draft: false
 - [梦](https://steamcommunity.com/profiles/76561198274184226) (1月)
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
-- [忍](https://steamcommunity.com/profiles/76561199237931536) (2月)
+- [娜娜米](https://steamcommunity.com/profiles/76561199237931536) (2月)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 
 <span style="color: #A9A9A9">最后更新于 2025年3月27日22:30:44</span>
