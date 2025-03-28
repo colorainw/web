@@ -43,7 +43,6 @@ draft: false
 - [碧落星辰](https://steamcommunity.com/profiles/76561199206975005) (6月)
 - [呵呵林呵呵](https://steamcommunity.com/profiles/76561199109872048) (7月)
 - [浪浪山](https://steamcommunity.com/profiles/76561199045732573) (8月)
-- (https://steamcommunity.com/profiles/76561198967455479)
 - [Tak1na](https://steamcommunity.com/profiles/76561199364880383) (8月)
 - [面包](https://steamcommunity.com/profiles/76561199075131465) (8月)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) (8月)
