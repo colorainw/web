@@ -9,3 +9,6 @@ draft: false
 
 一个网页代理，有用但不多
 > https://代理.rainw.top
+
+这是一个示范，可不开加速器访问Steam社区
+> https://代理.rainw.top/?url=https://steamcommunity.com/id/rainyan
