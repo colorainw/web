@@ -54,12 +54,8 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://acg-1305857515.cos.ap-beijing.myqcloud.com/%E5%9B%BE%E7%89%87%2F297.png",
-    "https://acg-1305857515.cos.ap-beijing.myqcloud.com/%E5%9B%BE%E7%89%87%2F410.png",
-    "https://acg-1305857515.cos.ap-beijing.myqcloud.com/%E5%9B%BE%E7%89%87%2F414.png",
-    "https://acg-1305857515.cos.ap-beijing.myqcloud.com/%E5%9B%BE%E7%89%87%2F774.png",
-    "https://acg-1305857515.cos.ap-beijing.myqcloud.com/%E5%9B%BE%E7%89%87%2F933.png",
-    "https://acg-1305857515.cos.ap-beijing.myqcloud.com/%E5%9B%BE%E7%89%87%2F566.png",
+    "http://acg1.rainw.top/",
+    "http://acg1.rainw.top/",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
