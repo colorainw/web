@@ -58,8 +58,6 @@ const YukinaConfig: Configuration = {
     "http://acg2.rainw.top/",
     "http://acg3.rainw.top/",
     "http://acg4.rainw.top/",
-    "http://acg5.rainw.top/",
-    "http://acg6.rainw.top/",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
