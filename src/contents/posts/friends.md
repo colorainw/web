@@ -31,7 +31,6 @@ draft: false
 - [吒某位](https://steamcommunity.com/profiles/76561199143637350) (8月)
 - [自由人](https://steamcommunity.com/profiles/76561198837752807) (8月)
 
-
 # 2023
 - [熊熊](https://steamcommunity.com/profiles/76561198849046684) (1月)
 - [馒头](https://steamcommunity.com/profiles/76561198443411885) (1月)
@@ -44,7 +43,7 @@ draft: false
 - [面包](https://steamcommunity.com/profiles/76561199075131465) (8月)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) (8月)
 - [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655) (9月)
-- [<span style="color:rgb(255, 0, 0)">生可乐</span>](https://steamcommunity.com/profiles/76561199401070006) 2023 至 2024
+- [<span style="color:#f00">生可乐</span>](https://steamcommunity.com/profiles/76561199401070006) 2023 至 2024
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) (9月)
 - [Fish](https://steamcommunity.com/profiles/76561199426944104) (10月)
 - [SobumusuA](https://steamcommunity.com/profiles/76561198985523543) (10月)
@@ -57,7 +56,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- [<span style="color:rgb(255, 0, 0)">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09
+- [<span style="color:#f00">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09
 
 # 2025
 - 小k (1月)
@@ -67,6 +66,39 @@ draft: false
 - [Arihara_Nanami](https://steamcommunity.com/profiles/76561199237931536) (2月)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 
-<span style="color: #A9A9A9">最后更新于 2025年3月27日22:30:44</span>
+<span style="color:#a9a9a9">最后更新于 2025年3月27日22:30:44</span>
 
-<style>.tooltip{position:relative;display:inline-block;border-bottom:1px dotted black}.tooltip .tooltiptext{visibility:hidden;width:120px;background-color:black;color:#fff;text-align:center;border-radius:5px;padding:5px 0;position:absolute;z-index:1;bottom:125%;left:50%;margin-left:-60px;opacity:0;transition:opacity .3s}.tooltip:hover .tooltiptext{visibility:visible;opacity:1}.tooltip a{color:inherit;text-decoration:none}.tooltip a:hover{text-decoration:underline}</style>
+<style>
+.tooltip{
+  position:relative;
+  display:inline-block;
+  border-bottom:1px dotted #000
+}
+.tooltip .tooltiptext{
+  visibility:hidden;
+  width:120px;
+  background-color:#000;
+  color:#fff;
+  text-align:center;
+  border-radius:5px;
+  padding:5px 0;
+  position:absolute;
+  z-index:1;
+  bottom:125%;
+  left:50%;
+  margin-left:-60px;
+  opacity:0;
+  transition:opacity .3s
+}
+.tooltip:hover .tooltiptext{
+  visibility:visible;
+  opacity:1
+}
+.tooltip a{
+  color:inherit;
+  text-decoration:none
+}
+.tooltip a:hover{
+  text-decoration:underline
+}
+</style>
