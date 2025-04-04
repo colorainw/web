@@ -106,41 +106,29 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
   </div>
 </div>
 
-<script>
-  const styleElement = document.createElement("style");
+<script is:inline>
+  // Create animation styles only if carousel exists
   const carouselImgs = document.getElementById("carousel_imgs");
-  const carouselImgsCount = carouselImgs?.children.length ?? 0;
-
-  const carouselAnimation = `
+  if (carouselImgs) {
+    const count = carouselImgs.children.length;
+    if (count > 0) {
+      const banner = document.getElementById("banner");
+      if (banner && !banner.querySelector("style")) {
+        banner.insertAdjacentHTML("beforeend", `
+          <style>
   @keyframes carousel-animation {
-    0% {
-      opacity: 0;
-      transform: scale(1);
+              0% { opacity: 0; transform: scale(1); }
+              3% { opacity: 1; }
+              8% { opacity: 1; animation-timing-function: ease-out; }
+              ${100 / count}% { opacity: 1; }
+              ${100 / count + 50 / count}% { opacity: 0; animation-timing-function: ease-out; }
+              100% { opacity: 0; transform: scale(2); }
     }
-    3% {
-      opacity: 1;
+          </style>
+        `);
     }
-    8% {
-      opacity: 1;
-      animation-timing-function: ease-out;
     }
-    ${100 / carouselImgsCount}% {
-      opacity: 1;
     }
-    ${100 / carouselImgsCount + 50 / carouselImgsCount}% {
-      opacity: 0;
-      animation-timing-function: ease-out;
-    }
-    100% {
-      opacity: 0;
-      transform: scale(2);
-    }
-  }
-  `;
-  styleElement.textContent = carouselAnimation;
-  let bannerElement = document.getElementById("banner");
-  if (bannerElement && !bannerElement.querySelector("style"))
-    bannerElement.appendChild(styleElement);
 </script>
 
 <style define:vars={{ carouselAnimationTime }}>
