@@ -2,7 +2,7 @@
 import YukinaConfig from "../../yukina.config";
 import { GetCoverURLForUnspecifiedEntry } from "../utils/cover";
 
-interface Props {
+export interface Props {
   title?: string;
   subTitle?: string;
   bannerImage?: string;
@@ -10,8 +10,9 @@ interface Props {
 }
 const { title, subTitle, bannerImage, slug } = Astro.props;
 
-const hasTitle = title || subTitle;
-const hasHeaderImg = bannerImage || slug;
+const hasTitle = title !== undefined || subTitle !== undefined;
+const hasHeaderImg = bannerImage !== undefined || slug !== undefined;
+
 const carouselImgsList = YukinaConfig.banners;
 const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
 ---
@@ -34,10 +35,10 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
               class="item lozad"
               style={{ animationDelay: `${index * 6}s` }}
               data-background-image={img}
-        />
+            />
           ))}
         </ul>
-  </div>
+      </div>
     )}
     <div class="relative h-[95%] w-full">
       <div class="absolute left-1/2 top-1/2 w-4/5 -translate-x-1/2 -translate-y-1/2 lg:w-3/4">
@@ -46,7 +47,7 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
             {title ?? YukinaConfig.title}
           </h1>
           <h2 class="subtitle">{subTitle ?? YukinaConfig.subTitle}</h2>
-</div>
+        </div>
       </div>
     </div>
   </div>
@@ -66,55 +67,81 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
         />
       </defs>
       <g class="parallax">
-        <use xlink:href="#gentle-wave" x="48" y="0" class="opacity-25" style="animation-delay: -2s; animation-duration: 7s" />
-        <use xlink:href="#gentle-wave" x="48" y="3" class="opacity-50" style="animation-delay: -3s; animation-duration: 10s" />
-        <use xlink:href="#gentle-wave" x="48" y="5" class="opacity-75" style="animation-delay: -4s; animation-duration: 13s" />
-        <use xlink:href="#gentle-wave" x="48" y="7" style="animation-delay: -5s; animation-duration: 20s" />
+        <use
+          xlink:href="#gentle-wave"
+          x="48"
+          y="0"
+          class="opacity-25"
+          style={{ animationDelay: "-2s", animationDuration: "7s" }}
+        />
+        <use
+          xlink:href="#gentle-wave"
+          x="48"
+          y="3"
+          class="opacity-50"
+          style={{ animationDelay: "-3s", animationDuration: "10s" }}
+        />
+        <use
+          xlink:href="#gentle-wave"
+          x="48"
+          y="5"
+          class="opacity-75"
+          style={{ animationDelay: "-4s", animationDuration: "13s" }}
+        />
+        <use
+          xlink:href="#gentle-wave"
+          x="48"
+          y="7"
+          style={{ animationDelay: "-5s", animationDuration: "20s" }}
+        />
       </g>
     </svg>
   </div>
 </div>
 
-<script is:inline>
+<script>
+  const styleElement = document.createElement("style");
   const carouselImgs = document.getElementById("carousel_imgs");
-  if (carouselImgs?.children.length) {
-      const banner = document.getElementById("banner");
-      if (banner && !banner.querySelector("style")) {
-      const childrenCount = carouselImgs.children.length;
-      const fadeInOutPercentage = 100 / childrenCount;
-      const fadeOutPercentage = fadeInOutPercentage + (50 / childrenCount);
+  const carouselImgsCount = carouselImgs?.children.length ?? 0;
 
-        banner.insertAdjacentHTML("beforeend", `
-          <style>
+  styleElement.textContent = `
   @keyframes carousel-animation {
-              0% { opacity: 0; transform: scale(1); }
-              3% { opacity: 1; }
-              8% { opacity: 1; animation-timing-function: ease-out; }
-            ${fadeInOutPercentage}% { opacity: 1; }
-            ${fadeOutPercentage}% { opacity: 0; animation-timing-function: ease-out; }
-              100% { opacity: 0; transform: scale(2); }
+      0% { opacity: 0; transform: scale(1); }
+      3% { opacity: 1; }
+      8% { opacity: 1; animation-timing-function: ease-out; }
+      ${100 / carouselImgsCount}% { opacity: 1; }
+      ${100 / carouselImgsCount + 50 / carouselImgsCount}% { opacity: 0; animation-timing-function: ease-out; }
+      100% { opacity: 0; transform: scale(2); }
     }
-          </style>
-        `);
-    }
-    }
+  `;
+  const bannerElement = document.getElementById("banner");
+  if (bannerElement && !bannerElement.querySelector("style")) {
+    bannerElement.appendChild(styleElement);
+  }
 </script>
 
 <style define:vars={{ carouselAnimationTime }}>
   .banner {
     @apply relative h-[calc(var(--banner-height)*3/4)] opacity-100 lg:h-[var(--banner-height)];
   }
-  .carousel, .cover {
-    @apply absolute left-0 top-0 -z-10 h-[calc(var(--banner-height)*3/4)] w-full overflow-hidden bg-white lg:h-[var(--banner-height)];
+  .carousel {
+    @apply absolute left-0 top-0 -z-10 block h-[calc(var(--banner-height)*3/4)] w-full overflow-hidden bg-white lg:h-[var(--banner-height)];
+    animation-fill-mode: forwards;
   }
-  .carousel::before, .cover::before {
-    @apply absolute left-0 top-0 z-10 h-full w-full bg-black/25 dark:bg-black/30 content-[''];
+  .carousel::before {
+    @apply absolute left-0 top-0 z-10 block h-full w-full bg-black/25 transition-all content-[''] dark:bg-black/30;
   }
   .carousel .item {
-    @apply h-full w-full origin-center bg-cover bg-center bg-no-repeat opacity-0;
-    animation: carousel-animation var(--carouselAnimationTime) linear infinite;
+    @apply absolute left-0 top-0 z-0 h-full w-full origin-center bg-cover bg-center bg-no-repeat opacity-0;
+    animation: carousel-animation var(--carouselAnimationTime) linear infinite 0s;
     backface-visibility: hidden;
     transform-style: preserve-3d;
+  }
+  .cover {
+    @apply absolute left-0 top-0 z-0 block h-[var(--banner-height)] w-full overflow-hidden bg-white;
+  }
+  .cover::before {
+    @apply absolute left-0 top-0 z-10 block h-full w-full bg-black/25 transition-all content-[''] dark:bg-black/30;
   }
   .cover .item {
     @apply h-full w-full object-cover;
