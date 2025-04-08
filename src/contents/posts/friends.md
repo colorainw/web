@@ -8,6 +8,7 @@ draft: false
 ---
 
 **2014-2025**
+**此列表灵感来自旺财主页~**
 
 # 2014
 - 78790
@@ -59,13 +60,12 @@ draft: false
 - [<span style="color:#f00">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09
 
 # 2025
-- 小k (1月)
 - [梦](https://steamcommunity.com/profiles/76561198274184226) (1月)
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [Arihara_Nanami](https://steamcommunity.com/profiles/76561199237931536) (2月)
 - Tsubaki
 
-<span style="color:#a9a9a9">最后更新于 2025年3月27日22:30:44</span>
+<span style="color:#a9a9a9">最后更新于 2025年4月8日19:27:03</span>
 
 <style>
 .tooltip{
