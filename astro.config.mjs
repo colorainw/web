@@ -18,8 +18,7 @@ import pagefind from "astro-pagefind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://colorainw.github.io',
-  base: '/web',
+  site: YukinaConfig.site,
   integrations: [
     tailwind(),
     svelte(),
