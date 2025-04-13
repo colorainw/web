@@ -2,7 +2,7 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "我喜欢你",
+  title: "rain",
   subTitle: "Zzzz",
   brandTitle: "Yan",
   description: "Not",
