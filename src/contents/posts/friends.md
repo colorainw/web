@@ -59,7 +59,7 @@ draft: false
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
 - [<span style="color:#f00">七海Nanami</span>](https://steamcommunity.com/profiles/76561199212014567) 2024-09-30 至 2025-03-09
 
-# 2025
+# 2025 (1~3月份某些小团体死妈了)
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [Arihara_Nanami](https://steamcommunity.com/profiles/76561199237931536) (2月)
 
