@@ -57,7 +57,19 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- <div class="tooltip"><span style="color:#f00">七海Nanami</span><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png"alt="TK截图"class="evidence-image"onerror="this.style.display='none'"/></div></div> 2024-09-30至2025-03-08
+- <div class="tooltip">
+  <span style="color:#f00"">七海Nanami</span>
+  <div class="tooltiptext">
+    <div class="reason-text">断交原因：AWP TK Yuki</div>
+    <img 
+      src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png" 
+      alt="TK截图" 
+      class="evidence-image"
+      onerror="this.style.display='none'"
+    />
+    <div id="videoContainer" class="loading-text">检测网络环境...</div>
+  </div>
+</div>
 
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
@@ -75,7 +87,7 @@ draft: false
   
   .tooltiptext {
     visibility: hidden;
-    width: 280px;
+    width: 500px; /* 增大宽度以适应视频 */
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -106,9 +118,18 @@ draft: false
     max-width: 100%;
     max-height: 200px;
     border-radius: 6px;
-    margin-top: 12px;
+    margin: 12px 0;
     border: 2px solid #444;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .youtube-embed {
+    width: 100%;
+    aspect-ratio: 16/9;
+    border-radius: 6px;
+    margin-top: 12px;
+    border: 2px solid #444;
+    background: #000;
   }
   
   .reason-text {
@@ -122,4 +143,62 @@ draft: false
     opacity: 1;
     transform: translateX(-50%) translateY(-8px);
   }
+  
+  .loading-text {
+    font-size: 0.9em;
+    color: #bbb;
+    margin: 8px 0;
+  }
 </style>
+
+<script>
+  // 检测网络连接状况
+  function checkNetworkForYouTube() {
+    const videoContainer = document.getElementById('videoContainer');
+    const youtubeId = 'pDGYlj1Pdow'; // 替换为你的YouTube视频ID
+    
+    // 如果是慢速连接或保存数据模式，则不加载视频
+    if (navigator.connection) {
+      const connection = navigator.connection;
+      if (connection.saveData || 
+          connection.effectiveType === 'slow-2g' || 
+          connection.effectiveType === '2g') {
+        videoContainer.textContent = '网络状况不佳，仅显示图片';
+        return;
+      }
+    }
+    
+    // 创建测试用的图片元素检测YouTube缩略图是否可访问
+    const testImg = new Image();
+    testImg.src = `https://img.youtube.com/vi/${youtubeId}/mqdefault.jpg`;
+    
+    testImg.onload = () => {
+      // YouTube可访问，嵌入iframe
+      videoContainer.innerHTML = `
+        <iframe 
+          class="youtube-embed"
+          src="https://www.youtube.com/embed/${youtubeId}?autoplay=0&rel=0"
+          title="YouTube视频"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      `;
+    };
+    
+    testImg.onerror = () => {
+      // YouTube不可访问
+      videoContainer.textContent = '视频不可用，仅显示图片';
+    };
+    
+    // 设置超时
+    setTimeout(() => {
+      if (!testImg.complete) {
+        videoContainer.textContent = '视频加载超时，仅显示图片';
+      }
+    }, 2000);
+  }
+  
+  // 当工具提示显示时检查网络
+  document.querySelector('.tooltip').addEventListener('mouseover', checkNetworkForYouTube);
+</script>
