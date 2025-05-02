@@ -57,14 +57,14 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- [<span style="color:#f00">七海Nanami</span>] 您配？？？ 2024-09-30 至 2025-03-09
+- <span style="color:#f00">七海Nanami</span> 2024-09-30 至 2025-03-09
 
-# 2025 (1~3月份某些小团体死妈了)
+# 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
+- [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 - [Arihara_Nanami](https://steamcommunity.com/profiles/76561199237931536) (2月)
-- [幻想](https://steamcommunity.com/profiles/76561199005295774) (2月)
 
-<span style="color:#a9a9a9">最后更新于 2025年4月28日00:44:24</span>
+<span style="color:#a9a9a9">最后更新于 2025年5月2日15:37:35</span>
 
 <style>
 .tooltip{
