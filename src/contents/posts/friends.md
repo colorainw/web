@@ -67,7 +67,6 @@ draft: false
       class="evidence-image"
       onerror="this.style.display='none'"
     />
-    <div id="videoContainer" class="loading-text">检测网络环境...</div>
   </div>
 </div>
 
@@ -82,12 +81,11 @@ draft: false
     position: relative;
     display: inline-block;
     cursor: pointer;
-    margin: 5px 0;
   }
   
   .tooltiptext {
     visibility: hidden;
-    width: 500px; /* 增大宽度以适应视频 */
+    width: 280px;
     background-color: #333;
     color: #fff;
     text-align: center;
@@ -101,6 +99,7 @@ draft: false
     opacity: 0;
     transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    pointer-events: none;
   }
   
   .tooltiptext::after {
@@ -118,18 +117,9 @@ draft: false
     max-width: 100%;
     max-height: 200px;
     border-radius: 6px;
-    margin: 12px 0;
-    border: 2px solid #444;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  }
-  
-  .youtube-embed {
-    width: 100%;
-    aspect-ratio: 16/9;
-    border-radius: 6px;
     margin-top: 12px;
     border: 2px solid #444;
-    background: #000;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   }
   
   .reason-text {
@@ -143,62 +133,4 @@ draft: false
     opacity: 1;
     transform: translateX(-50%) translateY(-8px);
   }
-  
-  .loading-text {
-    font-size: 0.9em;
-    color: #bbb;
-    margin: 8px 0;
-  }
 </style>
-
-<script>
-  // 检测网络连接状况
-  function checkNetworkForYouTube() {
-    const videoContainer = document.getElementById('videoContainer');
-    const youtubeId = 'pDGYlj1Pdow'; // 替换为你的YouTube视频ID
-    
-    // 如果是慢速连接或保存数据模式，则不加载视频
-    if (navigator.connection) {
-      const connection = navigator.connection;
-      if (connection.saveData || 
-          connection.effectiveType === 'slow-2g' || 
-          connection.effectiveType === '2g') {
-        videoContainer.textContent = '网络状况不佳，仅显示图片';
-        return;
-      }
-    }
-    
-    // 创建测试用的图片元素检测YouTube缩略图是否可访问
-    const testImg = new Image();
-    testImg.src = `https://img.youtube.com/vi/${youtubeId}/mqdefault.jpg`;
-    
-    testImg.onload = () => {
-      // YouTube可访问，嵌入iframe
-      videoContainer.innerHTML = `
-        <iframe 
-          class="youtube-embed"
-          src="https://www.youtube.com/embed/${youtubeId}?autoplay=0&rel=0"
-          title="YouTube视频"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-        </iframe>
-      `;
-    };
-    
-    testImg.onerror = () => {
-      // YouTube不可访问
-      videoContainer.textContent = '视频不可用，仅显示图片';
-    };
-    
-    // 设置超时
-    setTimeout(() => {
-      if (!testImg.complete) {
-        videoContainer.textContent = '视频加载超时，仅显示图片';
-      }
-    }, 2000);
-  }
-  
-  // 当工具提示显示时检查网络
-  document.querySelector('.tooltip').addEventListener('mouseover', checkNetworkForYouTube);
-</script>
