@@ -44,7 +44,7 @@ draft: false
 - [面包](https://steamcommunity.com/profiles/76561199075131465) (8月)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) (8月)
 - [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655) (9月)
-- <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561199401070006" target="_blank"><span style="color:#f00">生可乐</span></a><span class="tooltiptext">断交原因：玩笑</span></div> 2023至2024
+- <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561199401070006" target="_blank"><span style="color:#f00">生可乐</span></a><span class="tooltiptext">断交原因：玩笑</span></div> 2023 至 2024
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) (9月)
 - [Fish](https://steamcommunity.com/profiles/76561199426944104) (10月)
 - [SobumusuA](https://steamcommunity.com/profiles/76561198985523543) (10月)
@@ -57,7 +57,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- <div class="tooltip"><a href="https://youtu.be/pDGYlj1Pdow" target="_blank"><span style="color:#f00">七海Nanami</a><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png" alt="TK截图" class="evidence-image" onerror="this.style.display='none'"></div></div> 2024-09-30至2025-03-08
+- <div class="tooltip"><a href="https://youtu.be/pDGYlj1Pdow" target="_blank"><span style="color:#f00">七海Nanami</a><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png" alt="TK截图" class="evidence-image" onerror="this.style.display='none'"></div></div> 2024-09-30 至 2025-03-08
 
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
