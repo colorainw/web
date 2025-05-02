@@ -57,7 +57,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- <div class="tooltip-container"><div class="tooltip"><a href="#"target="_blank"class="player-name">七海Nanami</a><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png"alt="TK截图"class="evidence-image"onerror="this.style.display='none'"/><div class="click-hint">点击名字查看完整记录</div></div></div><span class="date-range">2024-09-30至2025-03-09</span></div>
+- <div class="tooltip-container"><div class="tooltip"><span class="player-name">七海Nanami</span><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png"alt="TK截图"class="evidence-image"onerror="this.style.display='none'"/></div></div><span class="date-range">2024-09-30至2025-03-09</span></div>
 
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
@@ -79,15 +79,8 @@ draft: false
   }
   
   .player-name {
-    color: #f00;
+    color: #f00; /* 红色字体 */
     font-weight: bold;
-    text-decoration: none;
-    transition: all 0.2s;
-  }
-  
-  .player-name:hover {
-    text-decoration: underline;
-    opacity: 0.9;
   }
   
   .tooltiptext {
@@ -146,12 +139,5 @@ draft: false
     visibility: visible;
     opacity: 1;
     transform: translateX(-50%) translateY(-8px);
-  }
-  
-  .click-hint {
-    font-size: 0.75em;
-    color: #bbb;
-    margin-top: 8px;
-    font-style: italic;
   }
 </style>
