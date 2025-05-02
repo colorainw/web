@@ -57,7 +57,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- <div class="tooltip"><span style="color:#f00">七海Nanami</span><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png" alt="TK截图" class="evidence-image" onerror="this.style.display='none'"></div></div>
+- <div class="tooltip"><a href="https://youtu.be/pDGYlj1Pdow" target="_blank" class="player-name">七海Nanami</a><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png" alt="TK截图" class="evidence-image" onerror="this.style.display='none'"></div></div>
 
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
@@ -69,7 +69,19 @@ draft: false
   .tooltip {
     position: relative;
     display: inline-block;
+  }
+  
+  .player-name {
+    color: #f00; /* 红色字体 */
+    font-weight: bold;
+    text-decoration: none;
     cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  
+  .player-name:hover {
+    opacity: 0.8;
+    text-decoration: underline;
   }
   
   .tooltiptext {
