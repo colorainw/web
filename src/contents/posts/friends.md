@@ -57,7 +57,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- <div class="tooltip"><a target="_blank"><span style="color:#f00"">七海Nanami</span></a><span class="tooltiptext">断交原因：AWP TK Yuki。</span></div> 2024-09-30 至 2025-03-09
+- <div class="tooltip-container"><div class="tooltip"><a href="#"target="_blank"class="player-name">七海Nanami</a><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png"alt="TK截图"class="evidence-image"onerror="this.style.display='none'"/><div class="click-hint">点击名字查看完整记录</div></div></div><span class="date-range">2024-09-30至2025-03-09</span></div>
 
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
@@ -66,36 +66,92 @@ draft: false
 <span style="color:#a9a9a9">最后更新于 2025年5月2日15:37:35</span>
 
 <style>
-.tooltip{
-  position:relative;
-  display:inline-block;
-  border-bottom:1px dotted #000
-}
-.tooltip .tooltiptext{
-  visibility:hidden;
-  width:120px;
-  background-color:#000;
-  color:#fff;
-  text-align:center;
-  border-radius:5px;
-  padding:5px 0;
-  position:absolute;
-  z-index:1;
-  bottom:125%;
-  left:50%;
-  margin-left:-60px;
-  opacity:0;
-  transition:opacity .3s
-}
-.tooltip:hover .tooltiptext{
-  visibility:visible;
-  opacity:1
-}
-.tooltip a{
-  color:inherit;
-  text-decoration:none
-}
-.tooltip a:hover{
-  text-decoration:underline
-}
+  .tooltip-container {
+    display: inline-flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .player-name {
+    color: #f00;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  
+  .player-name:hover {
+    text-decoration: underline;
+    opacity: 0.9;
+  }
+  
+  .tooltiptext {
+    visibility: hidden;
+    width: 280px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 8px;
+    padding: 15px;
+    position: absolute;
+    z-index: 100;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    pointer-events: none;
+  }
+  
+  .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #333 transparent transparent transparent;
+  }
+  
+  .evidence-image {
+    max-width: 100%;
+    max-height: 200px;
+    border-radius: 6px;
+    margin-top: 12px;
+    border: 2px solid #444;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .reason-text {
+    font-size: 1.05em;
+    margin-bottom: 8px;
+    line-height: 1.4;
+  }
+  
+  .date-range {
+    color: #aaa;
+    font-size: 0.85em;
+    margin-left: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+    transform: translateX(-50%) translateY(-8px);
+  }
+  
+  .click-hint {
+    font-size: 0.75em;
+    color: #bbb;
+    margin-top: 8px;
+    font-style: italic;
+  }
 </style>
