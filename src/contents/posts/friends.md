@@ -57,7 +57,7 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- <div class="tooltip-container"><div class="tooltip"><span style="color:#f00">">七海Nanami</span><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png"alt="TK截图"class="evidence-image"onerror="this.style.display='none'"/></div></div>
+- <div class="tooltip"><span style="color:#f00">七海Nanami</span><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png"alt="TK截图"class="evidence-image"onerror="this.style.display='none'"/></div></div>
 
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
@@ -66,16 +66,11 @@ draft: false
 <span style="color:#a9a9a9">最后更新于 2025年5月2日15:37:35</span>
 
 <style>
-  .tooltip-container {
-    display: inline-flex;
-    align-items: center;
-    margin: 10px 0;
-  }
-  
   .tooltip {
     position: relative;
     display: inline-block;
     cursor: pointer;
+    margin: 5px 0;
   }
   
   .tooltiptext {
@@ -94,7 +89,6 @@ draft: false
     opacity: 0;
     transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     box-shadow: 0 6px 12px rgba(0,0,0,0.15);
-    pointer-events: none;
   }
   
   .tooltiptext::after {
@@ -121,13 +115,6 @@ draft: false
     font-size: 1.05em;
     margin-bottom: 8px;
     line-height: 1.4;
-  }
-  
-  .date-range {
-    color: #aaa;
-    font-size: 0.85em;
-    margin-left: 12px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   .tooltip:hover .tooltiptext {
