@@ -47,7 +47,7 @@ draft: false
 - <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561199401070006" target="_blank"><span style="color:#f00">生可乐</span></a><span class="tooltiptext">断交原因：玩笑</span></div> 2023 至 2024
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) (9月)
 - [Fish](https://steamcommunity.com/profiles/76561199426944104) (10月)
-- <div class="tooltip"><a href="https://steamcommunity.com" target="_blank"><span style="color:#f00">SobumusuA</span></a><span class="tooltiptext">断交原因：未知，被单删)</span></div> 2023-10 至 2025-5-17
+- <div class="tooltip"><a href="https://steamcommunity.com" target="_blank"><span style="color:#f00">SobumusuA</span></a><span class="tooltiptext">学会理性和不偏不倚地评价别人才能给自己多留几条后路</span></div> 2023-10 至 2025-5-17
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548) (11月)
 - [Terminalis](https://steamcommunity.com/profiles/76561199140321763) (12月)
 
@@ -64,7 +64,7 @@ draft: false
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 - [cafe](https://steamcommunity.com/profiles/76561198214147621) (4月)
 
-<span style="color:#a9a9a9">最后更新于 2025年5月17日22:13:46</span>
+<span style="color:#a9a9a9">最后更新于 2025.5.18.11:44</span>
 
 <style>
   .tooltip {
