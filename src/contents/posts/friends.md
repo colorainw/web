@@ -62,11 +62,11 @@ draft: false
 
 # 2025
 - <span style="color:#f00">Kodli</span> 2025-01-18 至 2025-04-30
-- <span style="color:#f00">Ivy</span> 2024-01-18 至 2025-04-30
+- <span style="color:#f00">Ivy</span> 2025-01-18 至 2025-04-30
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 
-<span style="color:#a9a9a9">最后更新于 2025.5.18.11:44</span>
+<span style="color:#a9a9a9">最后更新于 2025年5月29日00:49:19</span>
 
 <style>
   .tooltip {
