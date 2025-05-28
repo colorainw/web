@@ -62,7 +62,6 @@ draft: false
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
-- [cafe](https://steamcommunity.com/profiles/76561198214147621) (4月)
 
 <span style="color:#a9a9a9">最后更新于 2025.5.18.11:44</span>
 
