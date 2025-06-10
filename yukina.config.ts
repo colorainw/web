@@ -16,7 +16,7 @@ const YukinaConfig: Configuration = {
   ],
   username: "柳颜",
   sign: "这是一段文字，但就是一段文字",
-  avatarUrl: "https://avatars.cloudflare.steamstatic.com/86bc86f8e7ce255d13330414b0d0fb9d1a876ede_full.jpg",
+  avatarUrl: "https://avatars.fastly.steamstatic.com/9d235ad58c59c92476d3fdef4068e550a545bb4d_full.jpg",
   socialLinks: [
     { icon: "line-md:github-loop", link: "https://github.com/colorainw" },
     { icon: "mingcute:bilibili-line", link: "https://space.bilibili.com/565790565" },
