@@ -47,7 +47,6 @@ draft: false
 - <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561199401070006" target="_blank"><span style="color:#f00">生可乐</span></a><span class="tooltiptext">断交原因：玩笑</span></div> 2023 至 2024
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) (9月)
 - [Fish](https://steamcommunity.com/profiles/76561199426944104) (10月)
-- <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561198985523543" target="_blank"><span style="color:#f00">SobumusuA</span></a><span class="tooltiptext">-----</span></div> 2023-10 至 2025-5-17
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548) (11月)
 - [Terminalis](https://steamcommunity.com/profiles/76561199140321763) (12月)
 
@@ -57,11 +56,8 @@ draft: false
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
-- <div class="tooltip"><a href="https://youtu.be/pDGYlj1Pdow" target="_blank"><span style="color:#f00">七海Nanami</a><div class="tooltiptext"><div class="reason-text">断交原因：AWP TK Yuki</div><img src="https://img.fastmirror.net/s/2025/05/02/681479450f6ce.png" alt="TK截图" class="evidence-image" onerror="this.style.display='none'"></div></div> 2024-09-30 至 2025-03-08
-- <span style="color:#f00">霜降Yuki</span> 2024-12-29 至 2025-03-08
 
 # 2025
-- <span style="color:#f00">Kodli</span> 2025-01-18 至 2025-04-30
 - [ivy](https://steamcommunity.com) (1月)
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
