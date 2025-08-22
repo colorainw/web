@@ -58,12 +58,11 @@ draft: false
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
 
 # 2025
-- [ivy](https://steamcommunity.com) (1月)
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 - [森](https://steamcommunity.com/profiles/76561199436766097) （3月）
 
-<span style="color:#a9a9a9">最后更新于 2025年5月29日00:49:19</span>
+<span style="color:#a9a9a9">最后更新于 2025年8月23日02:26:03</span>
 
 <style>
   .tooltip {
