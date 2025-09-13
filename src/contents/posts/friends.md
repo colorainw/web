@@ -44,7 +44,6 @@ draft: false
 - [面包](https://steamcommunity.com/profiles/76561199075131465) (8月)
 - [CC](https://steamcommunity.com/profiles/76561199157869062) (8月)
 - [Yakumo_Yukari](https://steamcommunity.com/profiles/76561198393247655) (9月)
-- <div class="tooltip"><a href="https://steamcommunity.com/profiles/76561199401070006" target="_blank"><span style="color:#f00">生可乐</span></a><span class="tooltiptext">断交原因：玩笑</span></div> 2023 至 2024
 - [初菜](https://steamcommunity.com/profiles/76561199372794867) (9月)
 - [Fish](https://steamcommunity.com/profiles/76561199426944104) (10月)
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548) (11月)
@@ -60,6 +59,7 @@ draft: false
 # 2025
 - [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
 - [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
+- [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 - [森](https://steamcommunity.com/profiles/76561199436766097) （3月）
 
 <span style="color:#a9a9a9">最后更新于 2025年8月23日02:26:03</span>
