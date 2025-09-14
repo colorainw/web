@@ -57,8 +57,6 @@ draft: false
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
 
 # 2025
-- [mika](https://steamcommunity.com/profiles/76561199192782210) (1月)
-- [幻想](https://steamcommunity.com/profiles/76561199005295774) (1月)
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 - [森](https://steamcommunity.com/profiles/76561199436766097) （3月）
 
