@@ -7,25 +7,14 @@ category: Friends
 draft: false
 ---
 
-**2014-2025**
-**此列表灵感来自旺财主页~**
+**2020-2025**
 星级为年份评价
 
-# 2014 10⭐ 无忧无虑
-- 78790
-
-# 2016 5⭐ 平平常常
-- [呆](https://steamcommunity.com/profiles/76561199172556849/)
-
-# 2018 10⭐ 快乐
-- 徐
-- 常
-
-# 2020 6⭐ 
+# 2020
 - 七街长巷 
 - [离合](https://steamcommunity.com/profiles/76561199243850182)
 
-# 2022 8.5⭐ 我是群皇帝！
+# 2022
 - 剑心弥玖
 - 风
 - 光辉
@@ -33,7 +22,7 @@ draft: false
 - [吒某位](https://steamcommunity.com/profiles/76561199143637350) (8月)
 - [自由人](https://steamcommunity.com/profiles/76561198837752807) (8月)
 
-# 2023 9.5⭐ 朋友最多的一年
+# 2023
 - [熊熊](https://steamcommunity.com/profiles/76561198849046684) (1月)
 - [馒头](https://steamcommunity.com/profiles/76561198443411885) (1月)
 - [Yukari](https://steamcommunity.com/profiles/76561199192625212) (4月)
@@ -50,18 +39,18 @@ draft: false
 - [星语夏](https://steamcommunity.com/profiles/76561198373850548) (11月)
 - [Terminalis](https://steamcommunity.com/profiles/76561199140321763) (12月)
 
-# 2024 7⭐ fuck cs2 good cs2
+# 2024
 - [TeaOvO](https://steamcommunity.com/profiles/76561199231335817) (1月)
 - [Mutek1星空](https://steamcommunity.com/profiles/76561199015172939) (2月)  
 - [晚星](https://steamcommunity.com/profiles/76561199072015238) (4月)
 - [顾顾咕咕咕](https://steamcommunity.com/profiles/76561198453703094) (6月) 
 - [Sakura玖](https://steamcommunity.com/profiles/76561199356095888) (6月)
 
-# 2025 2.5⭐ 就当不存在一样
+# 2025
 - [Tsubaki](https://steamcommunity.com/profiles/76561198997624879) (3月)
 - [森](https://steamcommunity.com/profiles/76561199436766097) （3月）
 
-<span style="color:#a9a9a9">最后更新于 2025年10月14日</span>
+<span style="color:#a9a9a9">最后更新于 2025年10月26日</span>
 
 <style>
   .tooltip {
@@ -70,7 +59,7 @@ draft: false
   }
   
   .player-link {
-    color: #f00 !important; /* 强制红色字体 */
+    color: #f00 !important;
     font-weight: bold;
     text-decoration: none;
     cursor: pointer;
@@ -80,7 +69,7 @@ draft: false
   .player-link:hover {
     opacity: 0.8;
     text-decoration: underline;
-    color: #f00 !important; /* 悬停时保持红色 */
+    color: #f00 !important;
   }
   
   .tooltiptext {
