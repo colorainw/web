@@ -34,8 +34,8 @@ const YukinaConfig: Configuration = {
   ],
   slugMode: "HASH",
   license: {
-    name: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    name: "CC BY-ND 4.0",
+    url: "https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hans"
   },
   bannerStyle: "LOOP"
 };
