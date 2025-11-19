@@ -2,8 +2,8 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "rain",
-  subTitle: "Zzzz",
+  title: "我的世界雨下个不停",
+  subTitle: "/weather clear",
   brandTitle: "Yan",
   description: "Not",
   site: "https://shinyan.top",
