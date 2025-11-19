@@ -7,7 +7,7 @@
 2月6日
 
 **活跃时间**  
-- 平日：仅手机在线
+- 工作日：如果上学就是休息时间在
 - 周末：可能全天在线
 
 **兴趣**  
@@ -29,6 +29,10 @@
 ---
 
 # [**朋友们**](/posts/2e4b9cc2)
-<span style="color: #808080">(包括已<span style="color: #ff4444">绝交</span>的/已<span style="color: #ff4444">失联</span>的旧友，每段相遇都值得被记录)</span>
 
-<span style="color: #808080">谢谢你们。</span>
+特别鸣谢
+- CloudFlare(https://www.cloudflare-cn.com)
+- Tencent Cloud(https://cloud.tencent.com)
+- Tencent EdgeOne(https://edgeone.ai)
+- Astro(https://astro.build)
+- Yukina
