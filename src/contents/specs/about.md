@@ -30,9 +30,10 @@
 
 # [**朋友们**](/posts/2e4b9cc2)
 
-特别鸣谢
-- CloudFlare(https://www.cloudflare-cn.com)
-- Tencent Cloud(https://cloud.tencent.com)
-- Tencent EdgeOne(https://edgeone.ai)
-- Astro(https://astro.build)
+
+This website uses the following services
+- [CloudFlare](https://www.cloudflare-cn.com)
+- [Tencent Cloud](https://cloud.tencent.com)
+- [Tencent EdgeOne](https://edgeone.ai)
+- [Astro](https://astro.build)
 - Yukina
