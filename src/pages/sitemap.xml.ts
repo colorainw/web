@@ -15,7 +15,7 @@ function getLastMod(filePath: string) {
 export async function GET() {
   const domain = "https://shinyan.top";
 
-  // 1. 获取所有 blog 文章
+  // 1️⃣ 获取所有 blog 文章
   const posts = await getCollection("blog");
   const blogUrls = posts.map((post) => {
     const filePath = path.join(process.cwd(), "src/content/blog", post.slug + ".md");
@@ -28,7 +28,7 @@ export async function GET() {
   </url>`;
   });
 
-  // 2. 扫描所有 pages（src/pages 下的 .astro）
+  // 2️⃣ 扫描所有静态页面（.astro）
   const pagesDir = path.join(process.cwd(), "src/pages");
   const staticPages = fs
     .readdirSync(pagesDir)
@@ -36,7 +36,6 @@ export async function GET() {
     .map((file) => {
       const name = file.replace(".astro", "");
       const urlPath = name === "index" ? "" : name;
-
       const filePath = path.join(pagesDir, file);
 
       return `
