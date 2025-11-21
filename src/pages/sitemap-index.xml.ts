@@ -1,13 +1,4 @@
-import { getCollection } from "astro:content";
-
 export async function GET() {
-
-  const posts = await getCollection("blog");
-
-  const urls = posts
-    .map((post) => `https://shinyan.top/blog/${post.slug}/`)
-    .join("\n");
-
   const xml = `<?xml version="1.0" encoding="UTF-8" ?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
@@ -16,8 +7,6 @@ export async function GET() {
 </sitemapindex>`;
 
   return new Response(xml, {
-    headers: {
-      "Content-Type": "application/xml",
-    },
+    headers: { "Content-Type": "application/xml" },
   });
 }
