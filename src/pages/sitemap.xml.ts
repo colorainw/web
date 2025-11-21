@@ -2,6 +2,7 @@ import { getCollection } from "astro:content";
 import fs from "fs";
 import path from "path";
 
+// 获取文件最后修改时间
 function getLastMod(filePath: string) {
   try {
     return fs.statSync(filePath).mtime.toISOString();
@@ -48,6 +49,7 @@ export const GET = async () => {
   </url>`;
     });
 
+  // 生成最终 XML
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${staticPages.join("")}
