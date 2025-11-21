@@ -18,7 +18,7 @@ const YukinaConfig: Configuration = {
   sign: "这是一段文字，但就是一段文字",
   avatarUrl: "https://avatars.fastly.steamstatic.com/9d235ad58c59c92476d3fdef4068e550a545bb4d_full.jpg",
   socialLinks: [
-    { icon: "line-md:github-loop", link: "https://github.com/colorainw" },
+    { icon: "line-md:github-loop", link: "https://github.com/huayuzhongyan" },
     { icon: "mingcute:bilibili-line", link: "https://space.bilibili.com/565790565" },
     { icon: "mingcute:netease-music-line", link: "https://music.163.com" }
   ],
