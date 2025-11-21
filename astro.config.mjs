@@ -34,7 +34,6 @@ export default defineConfig({
       updateBodyClass: false,
       globalInstance: true,
     }),
-    sitemap(),
     pagefind(),
   ],
   markdown: {
